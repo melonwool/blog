@@ -1,1 +1,14 @@
+name: Melon
+
+meta:
+    description:
+    anchor:
+copyright:
+
 theme: jekyll-theme-cayman
+
+encoding: UTF-8
+
+timezone: Asia/Shanghai
+
+exclude: ['.gitignore', 'CHANGELOG.md', 'Gemfile', 'Gemfile.lock', 'LICENSE.md', 'README.md']
