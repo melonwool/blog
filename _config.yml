@@ -1,9 +1,13 @@
+title: Melon Blog
+
 name: Melon
 
-meta:
-    description:
-    anchor:
-copyright:
+description: 一些日常积累记录一下
+
+anchor: melon
+
+cayman-blog:
+      date_format: "%b %-d, %Y"
 
 theme: jekyll-theme-cayman
 
